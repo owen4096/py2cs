@@ -19,14 +19,14 @@ AgentGPT為一個讓你能在瀏覽器運行ai的一個網頁,並支援許多AI�
 接下來以讓AI寫出八皇后問題解法的實際過程作為舉例:<br>
 按下run之後ai便會上網查資料,訂定一些目標並嘗試達成<br>
 <img src="https://github.com/owen4096/py2cs/blob/master/hw/agentgpt3.png" width="500" height="400"  align=center /> 
-<img src="https://github.com/owen4096/py2cs/blob/master/hw/agentgpt4.png" width="400" height="400"  align=center /> 
+<img src="https://github.com/owen4096/py2cs/blob/master/hw/agentgpt4.png" width="300" height="400"  align=center /> 
 >以上兩張圖是在不同的run下的截圖,所以目標不相同
 
 若是無法在同一run達成所有目的(基本上都可以)<br>
 那麼下一run仍會保有上一run的記憶並嘗試繼續執行以及優化解法<br>
 而最後以AgentGPT寫出的8QUEEN問題解法也是沒有什麼大問題<br>
-<img src="https://github.com/owen4096/py2cs/blob/master/hw/output1.png" width="500" height="400"  align=center /> 
-<img src="https://github.com/owen4096/py2cs/blob/master/hw/output2.png" width="600" height="300"  align=center /> 
+<img src="https://github.com/owen4096/py2cs/blob/master/hw/output1.png" width="600" height="300"  align=center /> 
+<img src="https://github.com/owen4096/py2cs/blob/master/hw/output2.png" width="700" height="200"  align=center /> 
 
 ## 總結
 本篇的靈感發想主要是來原於此影片 https://www.youtube.com/watch?v=B7bYZ5ZFbl0<br>
