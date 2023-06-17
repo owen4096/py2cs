@@ -5,7 +5,7 @@
 為什麼它們可以做到近似於人類的思考邏輯?How?And why?<br>
 在我以前對深度學習部分AI的認知就是AI鬼抓人遊戲<br>
 如下圖<br>
-<img src="https://github.com/owen4096/py2cs/blob/master/hw/ai1.png" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/py2cs/blob/master/hw/ai1.png" width="700" height="400"  align=center /> <br>
 此遊戲簡單來說就是人要躲鬼,在多次嘗試會發現箱子可以阻擋鬼,而鬼也會在之後發現梯子可以越過牆<br>
 就是通過不斷的run 不斷的train 利用加分扣分控制AI,驅使它往高分移動,有點類似爬山演算法的概念<br>
 但後來在某次的研究中發現其並不完全適用所有場合<br>
@@ -20,7 +20,7 @@
 ## 多重感知機(MLP) 
 要說到這種跟Neural Network(NN),也就是神經原網路有關的東西,肯定要先從最基本的開始說<br>
 所謂NN,就是含有輸入,隱藏,輸出三層的神經網路<br>
-<img src="https://github.com/owen4096/py2cs/blob/master/hw/ai2.png" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/py2cs/blob/master/hw/ai2.png" width="700" height="400"  align=center /> <br>
 顧名思義,輸入負責輸入訊號,隱藏負責計算,輸出負責輸出信號<br>
 而MLP就是將輸入以各式各樣的數學函數及參數權重進行計算,比如說梯度下降,反傳遞等等<br>
 以遵循人類神經的方式去學習並預測數據,更改參數使預設值更接近實際值<br>
@@ -46,7 +46,7 @@
 因此也有許多模型將此層抽掉<br>
 
 <img src="https://github.com/owen4096/py2cs/blob/master/hw/ai3.png" width="500" height="400"  align=center /> 
-卷積神經網路模型<br>
+              卷積神經網路模型<br>
 
 
 
