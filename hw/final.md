@@ -52,11 +52,10 @@
 
 
 # 參考文獻
-陳鍾誠老師的上課教材<br>
-- youtube     : https://www.youtube.com/@ccckmit <br>
-- github教材  : https://github.com/ccc111b/py2cs <br>
 深度學習 :CNN原理 https://cinnamonaitaiwan.medium.com/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-cnn%E5%8E%9F%E7%90%86-keras%E5%AF%A6%E7%8F%BE-432fd9ea4935<br>
 李弘毅教授的投影片及影片解析 : https://www.youtube.com/watch?v=OP5HcXJg2Aw&ab_channel=Hung-yiLee <br>
 神經網路模型有哪些？種類與使用介紹(MLP/CNN) https://ithelp.ithome.com.tw/articles/10303535 <br>
-
+陳鍾誠老師的上課教材<br>
+- youtube     : https://www.youtube.com/@ccckmit <br>
+- github教材  : https://github.com/ccc111b/py2cs <br>
 
