@@ -46,7 +46,7 @@
 而現今電腦算力能夠負荷沒有subsampling的input<br>
 因此也有許多模型將此層抽掉<br>
 下圖為CNN模型<br>
-<img src="https://github.com/owen4096/py2cs/blob/master/hw/ai3.png" width="700" height="400"  align=center /> 
+<img src="https://github.com/owen4096/py2cs/blob/master/hw/ai3.png" width="600" height="450"  align=center /> 
 
 
 
